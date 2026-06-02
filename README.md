@@ -1,16 +1,119 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**aart1nn/aart1nn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d0221,60:1a0533,100:2d1b69&height=250&section=header&text=ARTIN&fontSize=100&fontColor=ffffff&fontAlignY=45&desc=AI%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Dreamer&descAlignY=68&descSize=18&descColor=c4b5fd&animation=fadeIn&stroke=a78bfa&strokeWidth=2" width="100%"/>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=800&color=C4B5FD&center=true&vCenter=true&width=650&lines=🤖+Building+Intelligent+Systems;🧠+Machine+Learning+%7C+Deep+Learning;🔮+AI+Agents+%26+LLMs+are+my+next+frontier;⚡+Turning+ideas+into+AI-powered+reality;🚀+On+a+mission+to+master+AI+Engineering)](https://git.io/typing-svg)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=aart1nn&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+&nbsp;
+![Age](https://img.shields.io/badge/AGE-21-7c3aed?style=for-the-badge)
+&nbsp;
+![Focus](https://img.shields.io/badge/FOCUS-AI%20ENGINEERING-7c3aed?style=for-the-badge)
+
+</div>
+
+<br/>
+
+---
+
+<img align="right" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4b2Z6dGdyMzR6aGpzNnR4NXgxbXZ6eGlhcjJ6dGIwbGdkbmpibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+## `> whoami`
+
+```python
+class Artin:
+    age        = 21
+    role       = "AI Engineer 🤖"
+    stack      = ["Python 🐍", "pandas", "numpy", "matplotlib"]
+    learning   = "Machine Learning → Deep Learning → AI Agents"
+    obsessed   = "Building things that think"
+    end_goal   = "Mastering the full AI Engineering stack"
+    status     = "Leveling up every single day 📈"
+```
+
+<br clear="right"/>
+
+---
+
+## 🗺️ My AI Roadmap
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════╗
+║                   ARTIN'S AI JOURNEY                     ║
+╠══════════════════════════════════════════════════════════╣
+║  ██████████  Python                          ✅ Mastered ║
+║  ██████████  NumPy · Pandas · Matplotlib     ✅ Mastered ║
+║  ████████░░  Machine Learning                🔥 Active   ║
+║  ░░░░░░░░░░  Deep Learning                   ⏳ Next     ║
+║  ░░░░░░░░░░  LLMs & Generative AI            🔮 Planned  ║
+║  ░░░░░░░░░░  AI Agents & Autonomous Systems  🚀 Goal     ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## ⚡ Tech Arsenal
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-1a0533?style=for-the-badge&logo=python&logoColor=c4b5fd)
+![NumPy](https://img.shields.io/badge/NumPy-1a0533?style=for-the-badge&logo=numpy&logoColor=c4b5fd)
+![Pandas](https://img.shields.io/badge/Pandas-1a0533?style=for-the-badge&logo=pandas&logoColor=c4b5fd)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-1a0533?style=for-the-badge&logo=python&logoColor=c4b5fd)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-1a0533?style=for-the-badge&logo=scikit-learn&logoColor=c4b5fd)
+![Jupyter](https://img.shields.io/badge/Jupyter-1a0533?style=for-the-badge&logo=jupyter&logoColor=c4b5fd)
+![VS Code](https://img.shields.io/badge/VS%20Code-1a0533?style=for-the-badge&logo=visualstudiocode&logoColor=c4b5fd)
+![Git](https://img.shields.io/badge/Git-1a0533?style=for-the-badge&logo=git&logoColor=c4b5fd)
+![GitHub](https://img.shields.io/badge/GitHub-1a0533?style=for-the-badge&logo=github&logoColor=c4b5fd)
+
+</div>
+
+---
+
+## 🎯 What I'm Building Towards
+
+<div align="center">
+
+| 🧠 | Deep Learning mastery |
+|:---:|:---|
+| 🤖 | Production-ready **AI Agents** |
+| 🔗 | Working with **LLMs** at a deep level |
+| ⚙️ | Becoming a **Full-Stack AI Engineer** |
+| 🌍 | Shipping projects that **actually matter** |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aart1nn&show_icons=true&hide_border=true&bg_color=0d0221&title_color=c4b5fd&icon_color=7c3aed&text_color=e2d9f3&ring_color=7c3aed"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aart1nn&layout=compact&hide_border=true&bg_color=0d0221&title_color=c4b5fd&text_color=e2d9f3"/>
+
+<br/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=aart1nn&hide_border=true&background=0d0221&ring=7c3aed&fire=c4b5fd&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=7c3aed&currStreakNum=ffffff&sideNums=ffffff)
+
+</div>
+
+---
+
+<div align="center">
+
+### `console.log("The future belongs to those who build it.")`
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:2d1b69,50:1a0533,100:000000&height=150&section=footer&animation=fadeIn&desc=Let's%20build%20something%20extraordinary&descSize=16&descColor=c4b5fd&descAlignY=60" width="100%"/>
+
+</div>
