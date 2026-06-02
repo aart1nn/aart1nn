@@ -20,19 +20,31 @@
 
 ---
 
-<img align="right" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4b2Z6dGdyMzR6aGpzNnR4NXgxbXZ6eGlhcjJ6dGIwbGdkbmpibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzV1eTNyaHo4NTBrMm91NWZsaWgwMnozemR0aDRkdzhxbW56Yzd4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 ## `> whoami`
 
 ```python
+# ── SYSTEM BOOT ──────────────────────────────────────────
+# Initializing Artin.exe ...
+# All systems nominal. Welcome. 🖤
+# ─────────────────────────────────────────────────────────
+
 class Artin:
-    age        = 21
-    role       = "AI Engineer 🤖"
-    stack      = ["Python 🐍", "pandas", "numpy", "matplotlib"]
-    learning   = "Machine Learning → Deep Learning → AI Agents"
-    obsessed   = "Building things that think"
-    end_goal   = "Mastering the full AI Engineering stack"
-    status     = "Leveling up every single day 📈"
+    
+    age          =  21
+    title        =  "AI Engineer"                  # 🤖
+    superpower   =  "Turning data into decisions"  # ⚡
+    
+    tech         =  ["Python 🐍", "NumPy", "Pandas", "Matplotlib"]
+    currently    =  "Mastering Machine Learning"   # 🔥
+    next_unlock  =  ["Deep Learning", "LLMs", "AI Agents"]
+    
+    mindset      =  "Build. Break. Learn. Repeat." # 🔁
+    final_form   =  "Full-Stack AI Engineer"       # 🚀
+    
+    def passion(self):
+        return "I don't just use AI — I build it." # 💜
 ```
 
 <br clear="right"/>
