@@ -41,8 +41,8 @@ class Artin:
     superpower   =  "Turning data into decisions"  # ⚡
     
     tech         =  ["Python 🐍", "NumPy", "Pandas", "Matplotlib"]
-    currently    =  "Mastering Machine Learning"   # 🔥
-    next_unlock  =  ["Deep Learning", "LLMs", "AI Agents"]
+    currently    =  "Deep Learning — CNN"          # 🔥
+    next_unlock  =  ["LLMs", "AI Agents"]
     
     mindset      =  "Build. Break. Learn. Repeat." # 🔁
     final_form   =  "Full-Stack AI Engineer"       # 🚀
@@ -63,12 +63,24 @@ class Artin:
 ╠══════════════════════════════════════════════════════════╣
 ║  ██████████  Python                          ✅ Mastered ║
 ║  ██████████  NumPy · Pandas · Matplotlib     ✅ Mastered ║
-║  ████████░░  Machine Learning                🔥 Active   ║
-║  ░░░░░░░░░░  Deep Learning                   ⏳ Next     ║
+║  ██████████  Machine Learning                ✅ Done     ║
+║  ████░░░░░░  Deep Learning                   🔥 Active   ║
 ║  ░░░░░░░░░░  LLMs & Generative AI            🔮 Planned  ║
 ║  ░░░░░░░░░░  AI Agents & Autonomous Systems  🚀 Goal     ║
 ╚══════════════════════════════════════════════════════════╝
 ```
+
+</div>
+
+---
+
+## 📁 Featured Projects
+
+<div align="center">
+
+| Repository | Description | Status |
+|-----------|-------------|--------|
+| [🤖 ml-projects](https://github.com/aart1nn/ml-projects) | 10 end-to-end ML projects — Regression, Classification, NLP | ✅ Complete |
 
 </div>
 
@@ -83,6 +95,8 @@ class Artin:
 ![Pandas](https://img.shields.io/badge/Pandas-1a0533?style=for-the-badge&logo=pandas&logoColor=c4b5fd)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-1a0533?style=for-the-badge&logo=python&logoColor=c4b5fd)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-1a0533?style=for-the-badge&logo=scikit-learn&logoColor=c4b5fd)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1a0533?style=for-the-badge&logo=tensorflow&logoColor=c4b5fd)
+![Keras](https://img.shields.io/badge/Keras-1a0533?style=for-the-badge&logo=keras&logoColor=c4b5fd)
 ![Jupyter](https://img.shields.io/badge/Jupyter-1a0533?style=for-the-badge&logo=jupyter&logoColor=c4b5fd)
 ![VS Code](https://img.shields.io/badge/VS%20Code-1a0533?style=for-the-badge&logo=visualstudiocode&logoColor=c4b5fd)
 ![Git](https://img.shields.io/badge/Git-1a0533?style=for-the-badge&logo=git&logoColor=c4b5fd)
