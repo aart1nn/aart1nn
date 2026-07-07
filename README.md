@@ -80,7 +80,7 @@ class Artin:
 
 | Repository | Description | Status |
 |-----------|-------------|--------|
-| [🤖 ml-projects](https://github.com/aart1nn/ml-projects) | 10 end-to-end ML projects — Regression, Classification, NLP | ✅ Complete |
+| [🤖 ml-projects](https://github.com/aart1nn/ml-projects) | 11 end-to-end ML projects — Regression, Classification, NLP | ✅ Complete |
 
 </div>
 
