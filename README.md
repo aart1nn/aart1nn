@@ -68,7 +68,7 @@ class Artin:
 ╔══════════════════════════════════════════════════════════╗
 ║                   ARTIN'S AI JOURNEY                     ║
 ╠══════════════════════════════════════════════════════════╣
-║  ██████████  Python                            ✅ Mastered ║
+║  ██████████  Python                          ✅ Mastered ║
 ║  ██████████  NumPy · Pandas · Matplotlib     ✅ Mastered ║
 ║  ██████████  Machine Learning                ✅ Done     ║
 ║  ████░░░░░░  Deep Learning                   🔥 Active   ║
