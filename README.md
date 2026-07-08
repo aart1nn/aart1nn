@@ -20,6 +20,8 @@
 
 ---
 
+<br/>
+
 ## `> whoami`
 
 <div align="center">
@@ -41,6 +43,7 @@ class Artin:
     superpower   =  "Turning data into decisions"  # ⚡
     
     tech         =  ["Python 🐍", "NumPy", "Pandas", "Matplotlib"]
+    recent_win   =  "Market Basket Analysis"       # 🛒
     currently    =  "Deep Learning — CNN"          # 🔥
     next_unlock  =  ["LLMs", "AI Agents"]
     
@@ -51,17 +54,21 @@ class Artin:
         return "I don't just use AI — I build it." # 💜
 ```
 
+<br/>
+
 ---
+
+<br/>
 
 ## 🗺️ My AI Roadmap
 
 <div align="center">
 
-```
+```text
 ╔══════════════════════════════════════════════════════════╗
 ║                   ARTIN'S AI JOURNEY                     ║
 ╠══════════════════════════════════════════════════════════╣
-║  ██████████  Python                          ✅ Mastered ║
+║  ██████████  Python                            ✅ Mastered ║
 ║  ██████████  NumPy · Pandas · Matplotlib     ✅ Mastered ║
 ║  ██████████  Machine Learning                ✅ Done     ║
 ║  ████░░░░░░  Deep Learning                   🔥 Active   ║
@@ -72,7 +79,11 @@ class Artin:
 
 </div>
 
+<br/>
+
 ---
+
+<br/>
 
 ## 📁 Featured Projects
 
@@ -80,11 +91,15 @@ class Artin:
 
 | Repository | Description | Status |
 |-----------|-------------|--------|
-| [🤖 ml-projects](https://github.com/aart1nn/ml-projects) | 11 end-to-end ML projects — Regression, Classification, NLP | ✅ Complete |
+| [🤖 ml-projects](https://github.com/aart1nn/ml-projects) | 12 end-to-end ML projects — Regression, Classification, NLP, Data Mining | ✅ Complete |
 
 </div>
 
+<br/>
+
 ---
+
+<br/>
 
 ## ⚡ Tech Arsenal
 
@@ -94,7 +109,9 @@ class Artin:
 ![NumPy](https://img.shields.io/badge/NumPy-1a0533?style=for-the-badge&logo=numpy&logoColor=c4b5fd)
 ![Pandas](https://img.shields.io/badge/Pandas-1a0533?style=for-the-badge&logo=pandas&logoColor=c4b5fd)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-1a0533?style=for-the-badge&logo=python&logoColor=c4b5fd)
+![Seaborn](https://img.shields.io/badge/Seaborn-1a0533?style=for-the-badge&logo=pandas&logoColor=c4b5fd)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-1a0533?style=for-the-badge&logo=scikit-learn&logoColor=c4b5fd)
+![Mlxtend](https://img.shields.io/badge/Mlxtend-1a0533?style=for-the-badge&logo=python&logoColor=c4b5fd)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-1a0533?style=for-the-badge&logo=tensorflow&logoColor=c4b5fd)
 ![Keras](https://img.shields.io/badge/Keras-1a0533?style=for-the-badge&logo=keras&logoColor=c4b5fd)
 ![Jupyter](https://img.shields.io/badge/Jupyter-1a0533?style=for-the-badge&logo=jupyter&logoColor=c4b5fd)
@@ -104,7 +121,11 @@ class Artin:
 
 </div>
 
+<br/>
+
 ---
+
+<br/>
 
 ## 🎯 What I'm Building Towards
 
@@ -119,7 +140,11 @@ class Artin:
 
 </div>
 
+<br/>
+
 ---
+
+<br/>
 
 ## 📊 GitHub Stats
 
@@ -134,7 +159,11 @@ class Artin:
 
 </div>
 
+<br/>
+
 ---
+
+<br/>
 
 <div align="center">
 
