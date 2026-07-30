@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=800&color=C4B5FD&center=true&vCenter=true&width=650&lines=🤖+Building+Intelligent+Systems;🧠+Machine+Learning+%7C+Deep+Learning;🔮+AI+Agents+%26+LLMs+are+my+next+frontier;⚡+Turning+ideas+into+AI-powered+reality;🚀+On+a+mission+to+master+AI+Engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=800&color=C4B5FD&center=true&vCenter=true&width=650&lines=🤖+Building+Intelligent+Systems;🧠+Machine+Learning+%7C+Deep+Learning;🎰+Reinforcement+Learning+%7C+Bandits;🔮+AI+Agents+%26+LLMs+are+my+next+frontier;⚡+Turning+ideas+into+AI-powered+reality;🚀+On+a+mission+to+master+AI+Engineering)](https://git.io/typing-svg)
 
 <br/>
 
@@ -42,9 +42,9 @@ class Artin:
     title        =  "AI Engineer"                  # 🤖
     superpower   =  "Turning data into decisions"  # ⚡
     
-    tech         =  ["Python 🐍", "NumPy", "Pandas", "Matplotlib"]
-    recent_win   =  "Market Basket Analysis"       # 🛒
-    currently    =  "Deep Learning — CNN"          # 🔥
+    tech         =  ["Python 🐍", "NumPy", "Pandas", "Matplotlib", "SciPy"]
+    recent_win   =  "Multi-Armed Bandits — +437% lift vs baseline"  # 🎰
+    currently    =  "Deep Learning — CNN"       # 🔥
     next_unlock  =  ["LLMs", "AI Agents"]
     
     mindset      =  "Build. Break. Learn. Repeat." # 🔁
@@ -71,7 +71,8 @@ class Artin:
 ║  ██████████  Python                          ✅ Mastered ║
 ║  ██████████  NumPy · Pandas · Matplotlib     ✅ Mastered ║
 ║  ██████████  Machine Learning                ✅ Done     ║
-║  ████░░░░░░  Deep Learning                   🔥 Active   ║
+║  ██████░░░░  Deep Learning                   🔥 Active   ║
+║  ███░░░░░░░  Reinforcement Learning          🔥 Active   ║
 ║  ░░░░░░░░░░  LLMs & Generative AI            🔮 Planned  ║
 ║  ░░░░░░░░░░  AI Agents & Autonomous Systems  🚀 Goal     ║
 ╚══════════════════════════════════════════════════════════╝
@@ -91,7 +92,7 @@ class Artin:
 
 | Repository | Description | Status |
 |-----------|-------------|--------|
-| [🤖 ml-projects](https://github.com/aart1nn/ml-projects) | 12 end-to-end ML projects — Regression, Classification, NLP, Data Mining | ✅ Complete |
+| [🤖 ml-projects](https://github.com/aart1nn/ml-projects) | 13 end-to-end ML/RL projects — Regression, Classification, Clustering, Reinforcement Learning | ✅ Active |
 
 </div>
 
@@ -108,6 +109,7 @@ class Artin:
 ![Python](https://img.shields.io/badge/Python-1a0533?style=for-the-badge&logo=python&logoColor=c4b5fd)
 ![NumPy](https://img.shields.io/badge/NumPy-1a0533?style=for-the-badge&logo=numpy&logoColor=c4b5fd)
 ![Pandas](https://img.shields.io/badge/Pandas-1a0533?style=for-the-badge&logo=pandas&logoColor=c4b5fd)
+![SciPy](https://img.shields.io/badge/SciPy-1a0533?style=for-the-badge&logo=scipy&logoColor=c4b5fd)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-1a0533?style=for-the-badge&logo=python&logoColor=c4b5fd)
 ![Seaborn](https://img.shields.io/badge/Seaborn-1a0533?style=for-the-badge&logo=pandas&logoColor=c4b5fd)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-1a0533?style=for-the-badge&logo=scikit-learn&logoColor=c4b5fd)
@@ -133,6 +135,7 @@ class Artin:
 
 | 🧠 | Deep Learning mastery |
 |:---:|:---|
+| 🎰 | Advanced decision-making with **Reinforcement Learning** |
 | 🤖 | Production-ready **AI Agents** |
 | 🔗 | Working with **LLMs** at a deep level |
 | ⚙️ | Becoming a **Full-Stack AI Engineer** |
